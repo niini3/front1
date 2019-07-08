@@ -12,4 +12,4 @@ export default class Credit_document_set_2013 {
     CREATOR_GROUP_ID: string;
     CREATOR_GROUP_NAME:string;
     NOTE:string;
-  }
+}
